@@ -1,6 +1,6 @@
 # r3vx-framework
 
-<h2 align="center">🔥 R3vX — The ultimate FiveM framework for competitive racing servers.</h2>
+<h2 align="center">🔥 R3vX — The ultimate FiveM framework for racing servers.</h2>
 
 <p align="center">
   <img src="https://i.postimg.cc/FR5Y7vnR/r3vx-logo.png" alt="R3vX Logo" width="50%">
