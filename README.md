@@ -3,7 +3,7 @@
 <h2 align="center">🔥 R3vX — The ultimate FiveM framework for racing servers.</h2>
 
 <p align="center">
-  <img src="https://i.postimg.cc/m2f8c7Nw/Chat-GPT-Image-Apr-7-2025-08-28-09-PM.png" alt="R3vX Logo" width="40%">
+  <img src="https://i.postimg.cc/MGQnjfY7/r3vx-logo.png" alt="R3vX Logo" width="30%">
 </p>
 
 ---
